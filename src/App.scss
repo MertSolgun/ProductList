@@ -1,0 +1,11 @@
+@import "./components/scss/reset";
+
+body {
+  background-image: radial-gradient(
+    circle farthest-corner at 10% 20%,
+    rgba(38, 51, 97, 1) 0%,
+    rgba(65, 143, 222, 1) 79%
+  );
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
